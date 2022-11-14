@@ -1,13 +1,13 @@
 package com.ysoztf.decorator;
 
-public abstract class CommonEntityDecorator extends AbstractEntity{
-    protected AbstractEntity abstractEntity;
+public class CommonEntityDecorator implements CommonInterface {
+    protected CommonInterface abstractEntity;
 
-    public AbstractEntity getAbstractEntity() {
+    public CommonInterface getAbstractEntity() {
         return abstractEntity;
     }
 
-    public void setAbstractEntity(AbstractEntity abstractEntity) {
+    public void setAbstractEntity(CommonInterface abstractEntity) {
         this.abstractEntity = abstractEntity;
     }
 
