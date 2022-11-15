@@ -10,4 +10,6 @@
 3. decorator：装饰者模式结构
 4. proxy：代理模式结构
 5. factory：工厂模式
-
+6. prototype：原型模式(浅拷贝与深拷贝的应用)
+7. template_method：模板方法模式结构
+8. facade：外观模式结构
