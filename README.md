@@ -13,3 +13,4 @@
 6. prototype：原型模式(浅拷贝与深拷贝的应用)
 7. template_method：模板方法模式结构
 8. facade：外观模式结构
+9. builder：建造者模式结构
