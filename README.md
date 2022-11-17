@@ -14,3 +14,4 @@
 7. template_method：模板方法模式结构
 8. facade：外观模式结构
 9. builder：建造者模式结构
+10. observer：观察者模式
