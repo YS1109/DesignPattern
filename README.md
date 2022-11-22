@@ -15,5 +15,8 @@
 8. facade：外观模式
 9. builder：建造者模式
 10. observer：观察者模式
-11. status: 状态模式
+11. status：状态模式
 12. adapter：适配器模式
+13. memento：备忘录模式
+14. composite：组合模式
+15. singleton：单例模式
