@@ -20,3 +20,4 @@
 13. memento：备忘录模式
 14. composite：组合模式
 15. singleton：单例模式
+16. bridge：桥接模式
