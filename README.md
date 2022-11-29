@@ -21,3 +21,4 @@
 14. composite：组合模式
 15. singleton：单例模式
 16. bridge：桥接模式
+17. command：命令模式
