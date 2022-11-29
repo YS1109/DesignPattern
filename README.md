@@ -22,3 +22,4 @@
 15. singleton：单例模式
 16. bridge：桥接模式
 17. command：命令模式
+18. chain_of_responsibility：职责链模式
