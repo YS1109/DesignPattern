@@ -23,3 +23,5 @@
 16. bridge：桥接模式
 17. command：命令模式
 18. chain_of_responsibility：职责链模式
+19. mediator：中介者模式
+20. flyweight：享元模式
