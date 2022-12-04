@@ -25,3 +25,5 @@
 18. chain_of_responsibility：职责链模式
 19. mediator：中介者模式
 20. flyweight：享元模式
+21. interpreter：解释器模式
+22. visitor：访问者模式
